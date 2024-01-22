@@ -5,6 +5,6 @@ def myFun(x, y=50):
 	print("y: ", y)
 
 
-# Driver code (We call myFun() with only
+# Driver code (We call myFun() with only one fever
 # argument)
 myFun(10)
